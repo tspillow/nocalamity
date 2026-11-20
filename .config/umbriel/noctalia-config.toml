@@ -1,7 +1,6 @@
 [audio]
 colorize_icons = true
 enable_overdrive = true
-sound_theme = "ocean"
 
 [bar.default]
 background_opacity = 0.54999998770654202
