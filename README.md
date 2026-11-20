@@ -14,4 +14,4 @@ My Umbriel + Noctalia dotfiles
 - Cursor noctalia plugin
 - Foot terminal
 - areofyl/fetch
-
+- GoMono nerd fonts
